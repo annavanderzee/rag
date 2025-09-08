@@ -12,29 +12,29 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@azure/msal-react": "^2.0.6",
-    "@azure/msal-browser": "^3.10.0",
-    "@fluentui/react": "^8.112.5",
-    "@fluentui/react-components": "^9.37.3",
+    "@azure/msal-react": "^3.0.19",
+    "@azure/msal-browser": "^4.22.0",
+    "@fluentui/react": "^8.123.5",
+    "@fluentui/react-components": "^9.69.0",
     "@fluentui/react-icons": "^2.0.221",
-    "@react-spring/web": "^9.7.3",
-    "marked": "^9.1.6",
-    "dompurify": "^3.0.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.18.0",
-    "ndjson-readablestream": "^1.0.7",
-    "react-syntax-highlighter": "^15.5.0",
-    "scheduler": "^0.20.2"
+    "@react-spring/web": "^10.0.2",
+    "marked": "^16.2.1",
+    "dompurify": "^3.2.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.2",
+    "ndjson-readablestream": "^1.4.0",
+    "react-syntax-highlighter": "^15.6.6",
+    "scheduler": "^0.26.0"
   },
   "devDependencies": {
-    "@types/dompurify": "^3.0.4",
-    "@types/react": "^18.2.34",
-    "@types/react-dom": "^18.2.14",
-    "@vitejs/plugin-react": "^4.1.1",
-    "prettier": "^3.0.3",
-    "typescript": "^5.2.2",
-    "@types/react-syntax-highlighter": "^15.5.7",
-    "vite": "^4.5.3"
+    "@types/dompurify": "^3.2.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.2",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "vite": "^7.1.5"
   }
 }
